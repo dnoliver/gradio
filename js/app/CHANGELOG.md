@@ -1,5 +1,15 @@
 # @gradio/app
 
+## 1.30.1
+
+### Fixes
+
+- [#7865](https://github.com/gradio-app/gradio/pull/7865) [`7bbc3b6`](https://github.com/gradio-app/gradio/commit/7bbc3b62bf85af2d2230e5f7539efb7f1f0007a1) - JS functions break entire app if there's no input, fixed.  Thanks @aliabid94!
+
+### Dependency updates
+
+- @gradio/multimodaltextbox@0.2.3
+
 ## 1.30.0
 
 ### Features

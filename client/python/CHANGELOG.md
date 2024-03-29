@@ -1,5 +1,11 @@
 # gradio_client
 
+## 0.14.1
+
+### Fixes
+
+- [#7888](https://github.com/gradio-app/gradio/pull/7888) [`946487c`](https://github.com/gradio-app/gradio/commit/946487cf8e477cbf8d6fad4e772ff574a21782c3) - Cache view_api info in server and python client.  Thanks @freddyaboulton!
+
 ## 0.14.0
 
 ### Features

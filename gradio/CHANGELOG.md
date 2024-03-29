@@ -1,5 +1,18 @@
 # gradio
 
+## 4.24.1
+
+### Features
+
+- [#7869](https://github.com/gradio-app/gradio/pull/7869) [`b9dbcf7`](https://github.com/gradio-app/gradio/commit/b9dbcf7aa22fe9a19edbc0c52d46a973d8d57ad4) - Make buttons in `gr.ChatInterface` more mobile-friendly.  Thanks @abidlabs!
+- [#7875](https://github.com/gradio-app/gradio/pull/7875) [`e6d051d`](https://github.com/gradio-app/gradio/commit/e6d051dc8a497fdd6b4cfbd57efd4c8015b97a66) - Paste Images into MultimodalTextbox.  Thanks @abidlabs!
+
+### Fixes
+
+- [#7886](https://github.com/gradio-app/gradio/pull/7886) [`ccdab9b`](https://github.com/gradio-app/gradio/commit/ccdab9b7e729c438649075d7d54afc9a91183677) - logout route deleting cookie fix.  Thanks @MichaelPerger!
+- [#7888](https://github.com/gradio-app/gradio/pull/7888) [`946487c`](https://github.com/gradio-app/gradio/commit/946487cf8e477cbf8d6fad4e772ff574a21782c3) - Cache view_api info in server and python client.  Thanks @freddyaboulton!
+- [#7865](https://github.com/gradio-app/gradio/pull/7865) [`7bbc3b6`](https://github.com/gradio-app/gradio/commit/7bbc3b62bf85af2d2230e5f7539efb7f1f0007a1) - JS functions break entire app if there's no input, fixed.  Thanks @aliabid94!
+
 ## 4.24.0
 
 ### Features

@@ -1,5 +1,11 @@
 # @gradio/multimodaltextbox
 
+## 0.2.3
+
+### Features
+
+- [#7875](https://github.com/gradio-app/gradio/pull/7875) [`e6d051d`](https://github.com/gradio-app/gradio/commit/e6d051dc8a497fdd6b4cfbd57efd4c8015b97a66) - Paste Images into MultimodalTextbox.  Thanks @abidlabs!
+
 ## 0.2.2
 
 ### Fixes
